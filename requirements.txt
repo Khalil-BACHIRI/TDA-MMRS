@@ -1,0 +1,14 @@
+gensim~=4.3.2             # Latest stable
+numpy~=1.26.4             # Updated from 1.21.5
+gudhi~=3.9.0              # Latest as of 2025
+scikit-image~=0.22.0      # Latest version
+scipy~=1.13.0             # Updated from 1.7.3
+pandas~=2.2.2             # Updated for better performance
+torch~=2.2.1              # Compatible with latest CUDA and torchvision
+torchvision~=0.17.1       # Match PyTorch version
+tqdm~=4.66.2              # Slight update
+scikit-learn~=1.4.2       # Updated version
+lmdb~=1.4.1               # Same (latest still 1.4.1)
+Pillow~=10.2.0            # Latest Pillow
+PyYAML~=6.0.1             # Minor update
+matplotlib~=3.8.4         # Latest stable

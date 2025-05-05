@@ -1,0 +1,3 @@
+Epoch: 120
+Result: {'precision': array([0.01210637, 0.0093422 ]), 'recall': array([0.11791463, 0.18153721]), 'ndcg': array([0.05918884, 0.0756623 ]), 'hit_ratio': array([0.12036389, 0.18544437]), 'auc': 0.0}
+Elapsed time: 666.2233469486237
